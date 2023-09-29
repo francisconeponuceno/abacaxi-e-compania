@@ -47,7 +47,7 @@ a.externo::after {
 }
 
 header {
-    background-image: linear-gradient(to bottom, var(--cor2), var(--cor4));
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     background-color: var(--cor4);
     min-height: 150px;
     text-align: center;
@@ -84,7 +84,7 @@ nav {
 }
 
 nav > a {
-    color: var(--cor1);
+    color: var(--cor5);
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -93,7 +93,7 @@ nav > a {
 }
 
 nav > a:hover {
-    background-color: var(--cor3);
+    background-color: var(--cor2);
     color: var(--cor5);
 }
 
