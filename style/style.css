@@ -206,6 +206,8 @@ aside > ul {
 ul#sorcio {
     margin-left: 30px;
     font-size: 1.5em;
+    font-family: var(--fonte-destaque);
+    color: var(--cor4);
 }
 
 
